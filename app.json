@@ -25,6 +25,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "scheme":"com.yoursite.yourapp",
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow Gas Station Finder to use your location."
+        }
+      ]
+    ]
   }
 }
+
+

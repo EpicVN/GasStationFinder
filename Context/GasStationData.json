@@ -1,0 +1,1452 @@
+{
+    "places": [
+        {
+            "location": {
+                "latitude": 10.8910001,
+                "longitude": 106.7844245
+            },
+            "displayName": {
+                "text": "Cửa hàng xăng dầu số 2",
+                "languageCode": "vi"
+            },
+            "shortFormattedAddress": "4 Trần Hưng Đạo, Đông Hòa, Dĩ An",
+            "photos": [
+                {
+                    "name": "places/ChIJB9sj95LYdDER5CKk_apxaWM/photos/AWU5eFgMkeVQvVVFKE-7anoAUK5yF1J8cic9tyiry6WcBl_cVSKXbkVOqOl4WT_ti4Aendt_iTAsvubz9RkCndKFC8yJ8kLDHE1IKN5lV3hW4aDGIUSIKV5t1C09Y61oGLtDpQ5ECMDLsEUW5LpWK-XrZs0X-ecywrWBYlGJ",
+                    "widthPx": 4000,
+                    "heightPx": 1800,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Dũng Nguyễn Anh",
+                            "uri": "//maps.google.com/maps/contrib/111355150727162039200",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIwcjgw-i9e63ACP2pzOuD8YJmOZuaQ8BjkT8q-aZ2S=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJB9sj95LYdDER5CKk_apxaWM/photos/AWU5eFgPbvwx566k9UCpSFjedwGyDodkVltuZoZqp81JfgbHJY9G4j09_ehjXPrpa8nK-ZlbfvvUA32OSoS35OFkud6BDDzCEzD1q6F0d-ruYX25ftojDnwPcz75q3ebyX_sy3wycHVYbwyV8tNLoSK7q1IG0rBRPRh9lupj",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Jayson Việt",
+                            "uri": "//maps.google.com/maps/contrib/103378622028849509814",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUNbx-KO8e6YzRazFfEWnd8sGyjLshi32Q8axXr6KjT0pvk=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJB9sj95LYdDER5CKk_apxaWM/photos/AWU5eFgyVZOsrISLCxoC9P6iG5UrfqvLNDpS_hgDTqJ9dFEnzClLuTyxr8t6Ip07BDn_tN7T_62X2RAo3nKlevO5LxCULqF_hwehmparEQk1CDXjmrRsFXGbCZ9-6OJAwRhJy8gkceVzn_lwnYX_quoRBR3NYkMZT0H8iERA",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Hao Hao",
+                            "uri": "//maps.google.com/maps/contrib/104663464044629452389",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU3RoqvbdcgIRaNrBp5yduAC4O1HtHW8n9QJ42aX5X-xsM=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJB9sj95LYdDER5CKk_apxaWM/photos/AWU5eFiH-6fJD9g1Nki7QI5H75hExUaGnzcmEZK2ozlkg-eoQ0bQE_AEVkk4_mYa87rwf1xDcOm9x_WZpz_Dq34uX8aDmRvObSpSt7q6ixCw23nGPOb4nZV6ZjfGbap1q-HoqgO_ULcmY9euPrLIvn9U3-wbslnmcb8itl-c",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Hữu Đức Nguyễn",
+                            "uri": "//maps.google.com/maps/contrib/102238811112363950140",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocL54utQl8mVVevOdWm8vkvANk1fnqTFhEMihzyj0Dln=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJB9sj95LYdDER5CKk_apxaWM/photos/AWU5eFgVhp6OY85S0wHZUkiBouAEvLKmxSoysbPuVPJi8ceFH3OQd7EBTu4oB9lbxJvGW9aM6FYaXgxPEAhmqrOKIBgODfMosml1MI6Pef6RdSTpotml_KKeAqp2OpO1FhrTjZdMc-U5P_t8nTd6MvsRpEQ6Fls9xqqHNpyT",
+                    "widthPx": 1280,
+                    "heightPx": 622,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ai Linh",
+                            "uri": "//maps.google.com/maps/contrib/107923039739298496429",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUWWie6zj3nRmwkOWXpaIdXkEWfP8bVPEZAHyDiBITgnHY=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJB9sj95LYdDER5CKk_apxaWM/photos/AWU5eFiDHqhBoe4HQHbHDrUswmYJ4aAFirguz_bIPWZF89QFCV3EayXLn9ZOM9DZUpb4HWHRMlQA2oaC8fT4Uc-XjvZUOPeVUwnPk4Fld6Ig82ot9d9JHD11VL9CNVfryXCu71ChGEWVBTfT6_Z7KsngSxUjZ5cxTBV8JxEh",
+                    "widthPx": 1080,
+                    "heightPx": 1920,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Thi Trần",
+                            "uri": "//maps.google.com/maps/contrib/104182697712891033743",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLvZ6Qr691rxJErf-MsakLb1szrHGmLxTX5TQcIoVUq=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJB9sj95LYdDER5CKk_apxaWM/photos/AWU5eFgCksdZQhXNvb5weMNDZp551RwnVQ89OYUKKisAyV_DKhvAEwO0N2pRiJQbY8WGsqrm0IoQABs9wX_Z0PpcMTrlwOkoZNPqYjDRHAOymhm8gvf29nhfdNDr1aHg3anvhoza7exINW0TGBPi-lfCA7TW8NFhkdMnjrYd",
+                    "widthPx": 640,
+                    "heightPx": 852,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Thạch Trận Trần",
+                            "uri": "//maps.google.com/maps/contrib/108098281010125826484",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVKLxr1bEyRLrENNSXsYIlFbVKmkE1d7HQtIKIO02CoJA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJB9sj95LYdDER5CKk_apxaWM/photos/AWU5eFgV_ADVwtT2AlMrwgmcVSz_WGWlVQe077rVJbiCb18KGxMFLRXSS9Uilp_OSnIhn77-AFTEoRS8I4hm1T9p8pnRU-K-QRiIPXmEL5oE-82ya_Fia1fAV3UqwVPqYJlmegSEiihQ6SIZTgpwXcYnCN3VKnD56cB6CLz9",
+                    "widthPx": 3920,
+                    "heightPx": 2204,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Anh Tuan",
+                            "uri": "//maps.google.com/maps/contrib/108965628852795546365",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVsyuuxx2Jg1CaTo1XO9UwhiOfIzyX0yhZEHsFyzMMyDg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJB9sj95LYdDER5CKk_apxaWM/photos/AWU5eFiDE37W3bps7XRLPvP9U4ePd6tWuhmrqgVSnaBFCnqbE12etHh6fgu09s5YhDBgC6UE5TyFoHv31exJFcPz8h9lARa6qw_QQWIJQugFpYrh4YrjJ2YGt2MGQxLtNgsRo2f9yYUB-rQopL4lF1XUWNZPORaxmiG3vqj6",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Jayson Việt",
+                            "uri": "//maps.google.com/maps/contrib/103378622028849509814",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUNbx-KO8e6YzRazFfEWnd8sGyjLshi32Q8axXr6KjT0pvk=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJB9sj95LYdDER5CKk_apxaWM/photos/AWU5eFjSX8I7HLPj0lqhU78PcxS6b4Kd9fWsq3j8LM59aXlnPQejJC-5ZrbJX3Q_hAmBcXNU3bnUT24hso2khk4ZBXbzR2PaG8qzPbQGEIH2I9NjHsClL_qsyzP3F6p5mvJ3IKu3tfkVPMd4XOqz3IcWX6aMm5XS_ZhkNDvv",
+                    "widthPx": 852,
+                    "heightPx": 640,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Thạch Trận Trần",
+                            "uri": "//maps.google.com/maps/contrib/108098281010125826484",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVKLxr1bEyRLrENNSXsYIlFbVKmkE1d7HQtIKIO02CoJA=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "location": {
+                "latitude": 10.9113075,
+                "longitude": 106.7514786
+            },
+            "displayName": {
+                "text": "Gasoline plant East Tan",
+                "languageCode": "en"
+            },
+            "shortFormattedAddress": "ĐT743B, p. Dĩ An, Dĩ An",
+            "photos": [
+                {
+                    "name": "places/ChIJDXiGWUnYdDERLIRU4q1oTyk/photos/AWU5eFhFSPLJx3HEX5nC4-TjNwVTS5eE51ohr3M3wVk-JEt7ru87vnTY8sasc93QZajLYpV71QEmeB_Tc9Q4_tXpp9gx8g7egJgHtuKSZUoWyvRDLOv57MHczbI0LoXmsAGZ4uAP0S8o767ZeeYC5hmIEXM_tRFT3Op1O-dI",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "RELAX TV",
+                            "uri": "//maps.google.com/maps/contrib/107068379384708623765",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVS9_C728IFfDoQ-1M1E4rxu02x0EzpwX9RJoJutXLLGg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDXiGWUnYdDERLIRU4q1oTyk/photos/AWU5eFjDyy-xqQO-QPJlZ-Etz4sVAwZ0aRYC1p99hEFJbQN2Ik6V9ex4o91jnM_UqVfjyJQuFfJzCOJdUnw9MqwlPep-wbwV234C70GKH0i5Nt0Aa6FRJCX4ApPZZ7J1sWw3223XUU5crRiu7zRbiCtdixGmY2LnsanQNxM_",
+                    "widthPx": 3968,
+                    "heightPx": 2976,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Nhâm Dennis",
+                            "uri": "//maps.google.com/maps/contrib/101382441646443911209",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWWjYSlxne9Djj7FCI3jFN8GVcNFuX2bg8GvhVMy60rQbdY=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDXiGWUnYdDERLIRU4q1oTyk/photos/AWU5eFhB2gfDNB01iiaJP4T5-LJSjyABE6dWF-tA5gLHT2sN8jOhqSlfDaYrf5IRRO0jt3sxdrm6Hh8b47xmCeWW0HicxbJnqVR1kW-lOMhMDHqth1x0qRV-vUqRjla9kxK2LBKcvZt3DMlhH5qrADu0DM-qOiRnHNvneY-K",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Duc Bui",
+                            "uri": "//maps.google.com/maps/contrib/105498329796038687259",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKfNhpDAgIKxlcaAnvPatY8B3naw_aYWUzFYGfdPzAz=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDXiGWUnYdDERLIRU4q1oTyk/photos/AWU5eFjRoZiu2ZYFDNftnP68nZnDMCH0iOm0T2_7wKEDB8d9F8IoxZ_JjMz5J9mu2Xaj7vQsJA1ZjKxXfqPsF2lnvdqYLe9U_htOaT9k2tXEUl59Jm94IcybYACblMpWw2OFt9mnneufti7APWdTsHCy9miM1qAr4ssXpBUQ",
+                    "widthPx": 1868,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Hưng Thịnh Phát QC",
+                            "uri": "//maps.google.com/maps/contrib/104976846681514209590",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWsJhJJRyqKtxjWR6I8WSFumakxiK7tXgwQi2AK3ke4uo0=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDXiGWUnYdDERLIRU4q1oTyk/photos/AWU5eFhbs0XwX5DVBP85RRvp5SkK1BdJgLqqy1UzE5plBL4UtQ_UTG_stcTRsgAMU1wghjXiz42hajS7yJNXJz_msFksZ8IHap1UqHmG-_hnvnUPCOb6kVDJ1a6x6C2BDFR4ok8id4ngCVD0UGJ3Kpz4wQhd0f_Wy83rnB3t",
+                    "widthPx": 2400,
+                    "heightPx": 3200,
+                    "authorAttributions": [
+                        {
+                            "displayName": "ly tinh hồ",
+                            "uri": "//maps.google.com/maps/contrib/104253884866156192104",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXx0HapNazZYZJCXZi4yyDHjp8_oCcCpX0Ylt87XAljrFw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDXiGWUnYdDERLIRU4q1oTyk/photos/AWU5eFiUfsqltHvDUbaO1HroxuiA_hv9Hn96ElNGc_TzTbOoXliF27SYrVMON4RWK6wfjy27sTC6OPWodty3tn9qn6PeQw4WNhS580JufByd2-xpF5HK0MIf9K-zJog129_HvUD6oA8prfaLEMefov7jBjksKutVeOBkTFbL",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Phúc lâm Thu mua đồ cũ (Mua Bán Đồ Cũ)",
+                            "uri": "//maps.google.com/maps/contrib/112491323302358753352",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVDB7Tht4vUbtL_-e2PQaWX4POelbOKgHNekOulo0XtbA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDXiGWUnYdDERLIRU4q1oTyk/photos/AWU5eFjxuv8YPNgVuhFewgWaC9ZvNco8LRey2umR9I_IPoYIWY_jOqItegS6N1jC8hnlaTyBFywaA-Fp_nTv4Yba5lsE61RAsSqbzkseoO2oe3JsDXoVLGEJTHEvwRoNLTAhL8lTTyDa2y7U7gpDpJDgJE7Y7Q9TeppykuU",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Đoan Piano",
+                            "uri": "//maps.google.com/maps/contrib/107412333912610692446",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVN18bPGd2qns8GycUJuLPcsrndbl04ajLp7Ha5gV0WtqE=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDXiGWUnYdDERLIRU4q1oTyk/photos/AWU5eFg2eYO7uf7D7FD258B83V1AfSuFBfGIzmE4xQskUAmosg1CO9Q2J9nDITGHz73s4zc73QS37zlFSPrPrsEydR-Njl8PJfcK2oNRiMDtet6etc7XyHbHafzWtJGkmef2-8EFq_c2Kd84WaqaFXPqqYKkYcMblUbewWwa",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Phúc lâm Thu mua đồ cũ (Mua Bán Đồ Cũ)",
+                            "uri": "//maps.google.com/maps/contrib/112491323302358753352",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVDB7Tht4vUbtL_-e2PQaWX4POelbOKgHNekOulo0XtbA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDXiGWUnYdDERLIRU4q1oTyk/photos/AWU5eFjOTB9evS82d-sLjun2wr0_k7XUkCS9nPYA-idcNcmn7yYPJvarWE5wr9z4VJgZg26V2rqhaKMXGNiUz1-u01j7icO9XvGrbc1LpBacezMsAXl5hQUD0xJy54O6xmpRSLmEuixcucqQeukAHxAeb9XU8kWae9pFtD7L",
+                    "widthPx": 2448,
+                    "heightPx": 3264,
+                    "authorAttributions": [
+                        {
+                            "displayName": "An Huong Tran",
+                            "uri": "//maps.google.com/maps/contrib/105502807423519292154",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIodDVOxDz84mQsSfQUrSFg_zVMD-99fJVbymzaMDoi=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDXiGWUnYdDERLIRU4q1oTyk/photos/AWU5eFhIWOtbVbUZU8gPPVsSLPwWPpsLk9liQvAZWoehUvJa_tSexS-shnBb-NWKBgple7avJ9TSRo9GntvEIhblsAMggATMQ97i4f1kl2bnJugNmwP5eqzi_tkUplM8IZGoLezLh7RkrXJBdVxB9bcnXXE_aZG5q3JWeggn",
+                    "widthPx": 2400,
+                    "heightPx": 3200,
+                    "authorAttributions": [
+                        {
+                            "displayName": "ly tinh hồ",
+                            "uri": "//maps.google.com/maps/contrib/104253884866156192104",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXx0HapNazZYZJCXZi4yyDHjp8_oCcCpX0Ylt87XAljrFw=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "location": {
+                "latitude": 10.916775099999999,
+                "longitude": 106.7528411
+            },
+            "displayName": {
+                "text": "Cây Xăng Tân Long",
+                "languageCode": "vi"
+            },
+            "shortFormattedAddress": "WQ83+P48, phường Tân Đông Hiệp, Dĩ An",
+            "photos": [
+                {
+                    "name": "places/ChIJDcGuVUvYdDERZPEloljbyrM/photos/AWU5eFgHgPVYGrVH4GA7yy1NeXd2a-QBk5laR9i1Xi1hfskX0YR0o4sgOL4cuobgdOur2TXZRwtdGbklLY-enRdjCkE8r9g387-7PEZLveO_ScvCg4LCXhe15yRMHfiyuqFRWWE4KmsEyBZGjcBfyv23Ko0u_c_RI-FpiYn_",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ngoc Thach Nguyen",
+                            "uri": "//maps.google.com/maps/contrib/116348031748101777699",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXBMJ6VzsMpcUVq_M7wpleRBKnKH7SrdswlBguuKC9OUA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDcGuVUvYdDERZPEloljbyrM/photos/AWU5eFji12n2E3riBDlryktWqdo62ciLxuixJkzWT7p3avKW-TuoCjeFpj4-Zjjxk8hilAXY5G3ua27bNQhben102h33aLrsFBk56fhx6pC5Ch4HeYVirbu63IKAnERz3CU0sZNcqR7O2zC6Xb94OciBgNYbR531S1bvByqf",
+                    "widthPx": 4000,
+                    "heightPx": 3000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Mái hiên Tùng phi",
+                            "uri": "//maps.google.com/maps/contrib/113417431598671783172",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX9IpQht2ZoXCawaK3yChDTOSCwW-YcgxwPk4TpUVjUyZjK=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDcGuVUvYdDERZPEloljbyrM/photos/AWU5eFivbe_zf0VuHFTlua4XE3synHMFOhMlDDvRPJF47F3dMeYh9Z0g19DIGXQsPQhYdpBllIFPovInd2hNp9rjZu0hnwmR3NC-Dg7F5VnOCIcb8SCxqocPqLsqar6ZXQW9LfSDLZERTckgoz5TZoOhh3S97CESQxrpxvI3",
+                    "widthPx": 5312,
+                    "heightPx": 2988,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Như Nam Nguyên",
+                            "uri": "//maps.google.com/maps/contrib/113137931880641250469",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV5s_86Wripkqn4JomqIyTErmYY0soQGV2jZhRgOmovALSA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDcGuVUvYdDERZPEloljbyrM/photos/AWU5eFh-aBSqGxAFIaEPsgZjcTvdlLW3J28sI2IAxwsRv67QL3R5R-21EQ0BCaRryuK2r0ED1kDi5V7uo3ClMK0U1VB-4lwOdANymYkkxe12voNdh7gWz7s-dq8lleS88VA-slVXAnpmbuSIn2alH6QKokUABX8NhvIEC7bt",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Đoàn Thân",
+                            "uri": "//maps.google.com/maps/contrib/100635354439638022239",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKM3DzDsdiHGXBypjyO7l-vo_VDF7k6zFKEwUxKmJ20=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDcGuVUvYdDERZPEloljbyrM/photos/AWU5eFi7lbqIDVEZRM0aC5SdJ1CTpuGDnIUEiuusr7Yjw3A_GweK43sZCLKsv0q_fLYAbiMbXOEez3lVajjchxsFTlzGDqR82h9cananIUPwKBW5VYxb_l9VnUVy90ZjqE1RgGoDZMP8MS-Tja4NDyt6bZ1r-ZxbHyLFOB3R",
+                    "widthPx": 3096,
+                    "heightPx": 4128,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Thanh Đức Trần",
+                            "uri": "//maps.google.com/maps/contrib/109804805382017185228",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKDNAgFm33G7D6UxhSp0VomE8CN4vPlmuwOtqU6Ka8N=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDcGuVUvYdDERZPEloljbyrM/photos/AWU5eFjWjozawVPxP3AD8nPPio-o5KwpkdbwGwAY_RRRVBwztClqMVHqsAXQvbtZJmQzA73lZjqhGzUdLhGtjsk4qY2FmEmsdCHQPP2uP__VRfqLhjt8IOmLbVigtyU_JUWOKdB5ThONAJIh7kMT2p1eC6dGfIxNwu9CS0Os",
+                    "widthPx": 5312,
+                    "heightPx": 2988,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Như Nam Nguyên",
+                            "uri": "//maps.google.com/maps/contrib/113137931880641250469",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV5s_86Wripkqn4JomqIyTErmYY0soQGV2jZhRgOmovALSA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDcGuVUvYdDERZPEloljbyrM/photos/AWU5eFgQfzZ7q9O9lNo4O_FjSNIw9lp5dD12eD1jSbVQulJWSnHO01YooijVnXT0X5pYahf0bAZHVDwblXMXjxpOJiAjgl-IzAngAdOjjq8vPX_LLBlDgGEswEe66qroSb3fL8494qWgSAIyYGcesSnWUdOOmCip2szi8qwh",
+                    "widthPx": 2448,
+                    "heightPx": 3264,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Thienle1987@gmail.com Le",
+                            "uri": "//maps.google.com/maps/contrib/105153244851235783378",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI2Pd_LsfZzo1swfucbrdpmZOBVI0ZMDCK32hrOTeTn=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDcGuVUvYdDERZPEloljbyrM/photos/AWU5eFhIPvCTxppifjjbBy45mCCm2voUzeI03OHAnju1akXQT3VlptmBawD9jk7f2QFm3YSBw9zP4jm80nNSDvuI0KvJJGH6D-IX01JlcPPDmrCvnCa2byeCFXu7EFx194MobzYFLr2BOwakaUiSxRCBY7jqlv3i-brVUlf9",
+                    "widthPx": 750,
+                    "heightPx": 1000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Đoàn Thân",
+                            "uri": "//maps.google.com/maps/contrib/100635354439638022239",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKM3DzDsdiHGXBypjyO7l-vo_VDF7k6zFKEwUxKmJ20=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDcGuVUvYdDERZPEloljbyrM/photos/AWU5eFiDNeZ2JM1YXfMb23I8gAU8hQdEHTK242Spb9kZUc54ClgQrDGA0RT4c-I9-xqbJ8NnDXkMqhEFTGVzxDAIi2FZAhh7fRA4GL7sNQnFrJNEIqFEfEGiDta8ql-ZMbMBuroxTA9IhRdb2sB_Ue0svQZPpo5tKQckM05-",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Tân Long Minh Nghĩa",
+                            "uri": "//maps.google.com/maps/contrib/113760783805179089253",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXGf984ERoDjPlAUBKXDiEXy59pWqk1WSqKTXuvN3B94g=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJDcGuVUvYdDERZPEloljbyrM/photos/AWU5eFjC8I3-OsED0ay6UnuYKDXcVS91umU4P3ChRtg2YLLlC6z7-RYAbuZofv72PWUJ_ThexQAeTK4oPcXPmcmtOvRzrG16cXbsYJcmyNlmpet8CLZoLa_2eK_9HgwRvCXNTZIennVY_9ea8CxW2pYGh4CIGo0W2ht3DAUU",
+                    "widthPx": 5312,
+                    "heightPx": 2988,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Như Nam Nguyên",
+                            "uri": "//maps.google.com/maps/contrib/113137931880641250469",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV5s_86Wripkqn4JomqIyTErmYY0soQGV2jZhRgOmovALSA=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "location": {
+                "latitude": 10.8976551,
+                "longitude": 106.73974469999999
+            },
+            "displayName": {
+                "text": "Trạm xăng dầu Vân Trúc",
+                "languageCode": "vi"
+            },
+            "shortFormattedAddress": "71 ĐT743, Bình Hòa, Thuận An",
+            "photos": [
+                {
+                    "name": "places/ChIJSw1QwT3YdDERQ-RANI5z_EA/photos/AWU5eFgsjM19AuabjiBH3gyVAzMRg9gsh26LsU7g4AnX4TGLToPF74aIw37oN2HRo10B-Q4KuBxXb5PvGBqrDNWty7UXDndjxPs9iFpUwMZBYxauJ1eB8LHmZblFfa3OdFLacVnBbuQT6wxKkrpQu8UHka9YGXiSVbw8N_73",
+                    "widthPx": 4608,
+                    "heightPx": 3456,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Nguyễn Thái",
+                            "uri": "//maps.google.com/maps/contrib/107320650827908321271",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWgOo3vSTY8PuQXWzaNoztBdummy6w3FIdqjpwZf3T-4mM=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJSw1QwT3YdDERQ-RANI5z_EA/photos/AWU5eFhVEW2Qnzpcx4KqYtQJvlXpo6qZC1bDANzqIBpbA0eo0ahQ-LcC9zCr7dXnScFsx3uSEo-th5cswHtMTYB4hJrJKTGAocaz3BRLo9mN9J-nxTssgbj-AVySyyLIBhtJ-iq0wMMNDG400vcMa1OUvPh3sJNbSPKuRPbN",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Dish Yang",
+                            "uri": "//maps.google.com/maps/contrib/114169212573679810670",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIxzOeOGuZXjjAk0CzBcqwVYGUx73x1mzia9GacUYU2S6A=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJSw1QwT3YdDERQ-RANI5z_EA/photos/AWU5eFgJN7eZPjpVHRtLyQa42_uwnbbHOHpChyRJj1gQt9-Lb_t0gE5td3GFPZ8DqtcGE1WJnnbu1f06FbwB-nmWXbhydASTLM-4ARj6mY5lIEiAiXf_yM0xoG5BL4XXZBPc1TBMvZYJKDpx4R-IZjJ1aG0QJUUGqqPSH60L",
+                    "widthPx": 3456,
+                    "heightPx": 4608,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Huy Long",
+                            "uri": "//maps.google.com/maps/contrib/108300930509217914843",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKNsZwwLINrDBBjIj8-8R7yzDSISojtlVcnO6bHlYZd=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJSw1QwT3YdDERQ-RANI5z_EA/photos/AWU5eFjcylW6ie-8nYa558O0ASqoNwnWQrvHVu9CKSHBM2MGAuTzg86b_nqZXJL79HhiegSKabAMRp2kdAij4Qv7RrL5H2XEWhfvt1Qr2rJ2m0Y3xOfYXE5idhtAeuA6EXEWmPkBiMxvXfTLy5ffs5BO7_7--azzzm5UqD7u",
+                    "widthPx": 3828,
+                    "heightPx": 2400,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Hoan Quách",
+                            "uri": "//maps.google.com/maps/contrib/113846452848234306809",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX2be0Jv6sf0ixNb8_wzvzduoOYGY7exm03Z1A8M0bVwdqE=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJSw1QwT3YdDERQ-RANI5z_EA/photos/AWU5eFiXODgC8R6rj4nRDH_MyTVy43Lje4GcsA3sdjuFLAZzy3fx9wU8B2HFZRg9X3QruOKg2u0if4jiYA31eceqHS9uHBzmQYfCpJlXQ19VjKQNPSMI8sBkTFJeMmfF0Isaoj5DdWXa2JIqAtsOuNhJyQsqtpO_ekcAWuxQ",
+                    "widthPx": 4128,
+                    "heightPx": 2700,
+                    "authorAttributions": [
+                        {
+                            "displayName": "anh thuong",
+                            "uri": "//maps.google.com/maps/contrib/117813773251071150912",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLgIcP3RRneECscmEmOwGRcWbqIJOP_sCTGqbBwMuRH=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJSw1QwT3YdDERQ-RANI5z_EA/photos/AWU5eFgM43oQLtwguZLA6T93VqaLI31Bp_9xvnUN7DrW3xjLXuw41A0AN-jystznE62dbf-LI0mZ5gMMp_-nvIEDnZu8NvK1ZS29y3bkcFLM09jHEFWT3OMKr875YwE4cUUkG22lDYcLq0SXjn0UidI-OIa1r0lc-olMwhux",
+                    "widthPx": 3096,
+                    "heightPx": 4128,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Vu Tranvan",
+                            "uri": "//maps.google.com/maps/contrib/108481965752571931910",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXhAglhZY2oE503tQQhjdyIaS91NFquIUQi6LqoMMJ3tg0=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJSw1QwT3YdDERQ-RANI5z_EA/photos/AWU5eFjonKiD82yeQK-WF_B-Q1JHMTBClduTCNWKnyhIXZ5a1T5g4oCpZhF3QgNnHvKIKTKanj4ZkhYDt_7qt9gVhsDBWf8LqAo3q55RPdOIlCzeav3YmCXvikmtvajfQKbzKIlOEqX5tIL70C6aoBpCszPKWhuYzukItPnV",
+                    "widthPx": 1920,
+                    "heightPx": 1080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Cồn Thạch Thái Bình",
+                            "uri": "//maps.google.com/maps/contrib/104797168627956146226",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWWMaNoKzHey80F6oOGwP3NVawvoW5XYhtv2twzzmjbrkI=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJSw1QwT3YdDERQ-RANI5z_EA/photos/AWU5eFgD2HHeYzpBKqoUS65LPwe5driVGkt05XQol8JJ_UCgsZpc00khaD5hufg0YfWOK8vsJdcI19Pynbc1SQKcx_c8iaISfL2VgMi10XgwAp4ffo2-3LVlTA0LqlhDYrz758jDIaQIOm8PRzp93n-gQPjkxSEb6USeGxc",
+                    "widthPx": 850,
+                    "heightPx": 566,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Văn Dũng Vlog",
+                            "uri": "//maps.google.com/maps/contrib/116998913017085610119",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWgL64CORo1d5x-RRdNTPD6STFHc7WXdGxa4U5OOecV=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJSw1QwT3YdDERQ-RANI5z_EA/photos/AWU5eFjavWKCDpvckcwYpZ-xWz6sIucS3EJ_olGKPIYGA-3DubVMp0FdtBRFri9Sbcgqe9eRW8V36kW_6MudSKVRJuiVH-qhRQlHiKjtjOKgvam2JzmZHDHOfO1Db9uJ8NoC69enz7Km3bMlJfVVJMtgz3DMbT6dtTIgC-Rd",
+                    "widthPx": 3456,
+                    "heightPx": 4608,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Huy Long",
+                            "uri": "//maps.google.com/maps/contrib/108300930509217914843",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKNsZwwLINrDBBjIj8-8R7yzDSISojtlVcnO6bHlYZd=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJSw1QwT3YdDERQ-RANI5z_EA/photos/AWU5eFhf3bhA645JXEgSkMxoVVlHGXJuOIz2wWRu3Lot0blPeaH9V3ZSRbqrnRzLcDsXBlV6tbHaZIJs_4g-_ylHLphKbsM2eXbnbhy1yPQWBOWvEvEqkVJlXLczcR3K_LFORU81t7NbWwzFd8uMxHB2QNZNLJFrJKOqX_e6",
+                    "widthPx": 4032,
+                    "heightPx": 2272,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Minh Giau Tran",
+                            "uri": "//maps.google.com/maps/contrib/110486322506329515249",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWWTtYrlUEcrqXqFCWgF7d_a6UDn3qYKqqfOLL0BF_XVg=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "location": {
+                "latitude": 10.8761697,
+                "longitude": 106.75137769999999
+            },
+            "displayName": {
+                "text": "Song Than Gas Station (Morningstar)",
+                "languageCode": "en"
+            },
+            "shortFormattedAddress": "VQG2+FH6, An Bình, Dĩ An",
+            "photos": [
+                {
+                    "name": "places/ChIJZVxfSnTYdDERQF8R2TfogHI/photos/AWU5eFhrsI4FfyWaaNSsQn_RrIKRoCijZa1CzhJtCgkLBidiOrXmoe32iXST3sSNff4ophu9NvWdNzUx_JhUkadKRgrrjSM2uPleMvHRb6JBTd0PqNpi09z5wdQUnM2dGNlAcltsoP5vyPeO4LlE3RT4wJu9qvi13lf5Uvpv",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "TRÍ NGUYỄN MINH (mtri_piano_oficical)",
+                            "uri": "//maps.google.com/maps/contrib/113253290821637625697",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW1mbH0lKtL_KyguYMuYvX6WvaZo1UnWZPSa3Oa-wlrjQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJZVxfSnTYdDERQF8R2TfogHI/photos/AWU5eFhBq52Y8PYng78DJoT95EtkmovL6oOmNVlfwElS4M3wQ4MEOmqnxbDnN54ObXodzrcl8DutCkk7ZWup4uZ2td_mcn_sKX9xX6zfdfRfKYdvGsyb2C6hniVbJCbEP3fGixSJbQhtdKzABfkHed8rcxyZtGNmTxh0D-DW",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "TRÍ NGUYỄN MINH (mtri_piano_oficical)",
+                            "uri": "//maps.google.com/maps/contrib/113253290821637625697",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW1mbH0lKtL_KyguYMuYvX6WvaZo1UnWZPSa3Oa-wlrjQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJZVxfSnTYdDERQF8R2TfogHI/photos/AWU5eFj1YH_OWKm6ekEZtHUq5lKgFOtFSxLmFxNf4pcUvEFWDf0ngqH1_jFJM_7LpN__bjHjSwj-2h8KFwZfyj6nqr5-Pxkq5X7-3pIKTU79AGSjpaTOcoIRRsajX6ygCWnFyxhJkSo0omoIKnoy-G6nUEFsXWWl2N-49yGd",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Lữ Đức Chiến",
+                            "uri": "//maps.google.com/maps/contrib/107134797785201238593",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVTEovR4NbF7O2GTCrv4fQGETH4U86yZXHRsEhdx4x29q_h=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJZVxfSnTYdDERQF8R2TfogHI/photos/AWU5eFj4G26gQe7km3Fr-TtQ3WODaQzDN5F2w0vhbEDoA4xzt2UHjUYhO0TUZqqj2n4PRvQ9nUqIWgFBCDjk2d0vpo2Dq_oli8asYS5H3qJa_4CUD7Xah6aXpy_mtagjO2e7PG3nfwz_xAEalBoobX1Lhqvv6EE4w47BHIIQ",
+                    "widthPx": 4128,
+                    "heightPx": 3096,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Lâm vlog",
+                            "uri": "//maps.google.com/maps/contrib/108093913386792394582",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWk-E3cHtSLqzz-hYkkjOafNJxwQsqPj6detJJvWgNedA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJZVxfSnTYdDERQF8R2TfogHI/photos/AWU5eFgDWxJNnWYUorVVnl-J4z4FQuOzzDp2s65-vrz9l9bbSKh2lGVqGxK4XTRpaLlb5Ezy5eQJ3D9gzEXYPMT_S1S8ZDDaRmaBIst_QOc1Vgi6XZCIRpspOAOYhy_w-uSWi9epI8rElqS5fwbRo0sA_oykMlKtfMtSd9fk",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Minh Phương Phạm",
+                            "uri": "//maps.google.com/maps/contrib/103791646893473321581",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWPMbPfFbTc7xNl1z2_kzcDMCYC6gcojsFS6xi4VYXz-sl3=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJZVxfSnTYdDERQF8R2TfogHI/photos/AWU5eFiNwgepfIdLmlm5wjP8VR7FGjlEBuYlk9NaWPZkgK9oCWSSGgOwWz9BjhWkCz_MUo0KIkt6u5qWqayNWlR0nVYKt_cw0oZVK1tTiVYm3dWyoObj2EzgY3AH_BK456EKe6NrjZDm_c3W8OAzjjyMxQetIvUsKBotdxXs",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Lê Huy - Truyền thông media",
+                            "uri": "//maps.google.com/maps/contrib/100246583552979300707",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW8exJ01KnjLqttR0q_RRS59mYMMANWCecHAmJ9OlMfXlQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJZVxfSnTYdDERQF8R2TfogHI/photos/AWU5eFie6WhKFk9Qc5cxz6WSjFhzWbsc571b5Dl0JuvZkypw48zBYQfNBQVRdti6hThlILMp05yRagywRdBekNXwUe3YRUTjVMhSaquh1HzrXxZ-ApGPfzqV2afgebOfDH5XbbHYJkyvH5cPQHDFZe0ajaOG2hZ8JoU8jsHW",
+                    "widthPx": 4128,
+                    "heightPx": 3096,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Văn Tình Vũ",
+                            "uri": "//maps.google.com/maps/contrib/102764831508310427507",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXkrV2QpCXittRkh1AvoEBv7Z4OXkr0mQ-OVzbqOIrwHDa0=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJZVxfSnTYdDERQF8R2TfogHI/photos/AWU5eFh0lcHzeKeQFC_rfYzV2oi7aoIPDLdWbjuQLHrWrhhciMVj7mq7eRzBBi72Qwt3QmxAaRjBoJVrKlJCulSoDWlToecOZVxKZL-9S1a-YBipatvwEsRmSiRMLsRCMLF8cegjunRq2QPRPeqdjk6DPY8rLPuB6FJ1kCno",
+                    "widthPx": 4160,
+                    "heightPx": 3120,
+                    "authorAttributions": [
+                        {
+                            "displayName": "An Pham",
+                            "uri": "//maps.google.com/maps/contrib/105136094468300430230",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXzIWOIwyC-iRbFGmaOoCa_hyIujzY6eKjlOzbQMxsjATI=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJZVxfSnTYdDERQF8R2TfogHI/photos/AWU5eFiECgt5-6sglXfHcOxBsFjr65CDBAPIZOTd8vaKGe1z5341QGwmDK5OXQj0zTXzkyy0xVwslY0O2T-GM-Z3nVrdf-0rjYD1szfFX_Qvga7q07Lm-iOeMcZb7gJOTDCeF9Usg_y2wMd6CQNJZxZYHvsZfWMsvXaUWzcg",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "TRÍ NGUYỄN MINH (mtri_piano_oficical)",
+                            "uri": "//maps.google.com/maps/contrib/113253290821637625697",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW1mbH0lKtL_KyguYMuYvX6WvaZo1UnWZPSa3Oa-wlrjQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJZVxfSnTYdDERQF8R2TfogHI/photos/AWU5eFhPl2dvFz5iuqpYJOTVobpnnsNjWx12a53IJGNmYdOoNITbJ0Hv-M2Q3mho8g667vdPKs3qHAYKOjFTKcrm73Ysq-pxUDiwFSZKWCfoi3iR-RzZ7rhWER27UO3xhDYeJxsaW4-oZ6YOXGCec8er31rnviQsvZEe42ah",
+                    "widthPx": 4128,
+                    "heightPx": 3096,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Lâm vlog",
+                            "uri": "//maps.google.com/maps/contrib/108093913386792394582",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWk-E3cHtSLqzz-hYkkjOafNJxwQsqPj6detJJvWgNedA=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "location": {
+                "latitude": 10.9088998,
+                "longitude": 106.7860288
+            },
+            "displayName": {
+                "text": "Cây Xăng Bình An 2",
+                "languageCode": "vi"
+            },
+            "shortFormattedAddress": "42/1A ĐT743B, phường Tân Đông Hiệp, Dĩ An",
+            "photos": [
+                {
+                    "name": "places/ChIJA4KOZeTYdDER2UAz7DZAjwQ/photos/AWU5eFjIZHjeEbyDmF547Q_2-LO9Ohxr0fM_0Mfgq6c-vkGx-EaVKRajzw2kZevVEo7DrEFZUFP_MgzR-XJr_8h6xiR4ZNH7JKi2JRfpBOk_LQCmM1HNlfAct8tViC_m4WjgFaRgmIzydrMoOoXNyOTUQnrmdn7rQFYghy5V",
+                    "widthPx": 2048,
+                    "heightPx": 1152,
+                    "authorAttributions": [
+                        {
+                            "displayName": "長谷川豊",
+                            "uri": "//maps.google.com/maps/contrib/104838021936497746617",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUWUuipK3qgdodH2oSkk9sT7lvcib2R7LKfxBUPOXtzRQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJA4KOZeTYdDER2UAz7DZAjwQ/photos/AWU5eFhMqTdbo0-yNOVV5gq7vmSa6tUqcaEWkfU6uLoiZbh17_z0-YjpEJqq75O0d1Adx9q3DaZGtMqt6beRZLDK5vso5Kg7SMrfxgq2FKgxtfu1QSEJ0dddA4WWbRKRXfz2AV-avWgfff-QnTC1MyhdYgAQykPBtsF7O40",
+                    "widthPx": 3372,
+                    "heightPx": 4501,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Quân Nguyễn Viết",
+                            "uri": "//maps.google.com/maps/contrib/110571092034194978804",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIVC43sdBfMlKuOI8mZ415KXX_xv0fx5jvThNOq_kA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJA4KOZeTYdDER2UAz7DZAjwQ/photos/AWU5eFh9B5b8WGLm7fQ2-IvrWCZybPY6L1kH36HH0jDu1g4tzw-69l7f8v11Qd0HCeBBQ_Urnm5wmG0GSa-FAAWWUti_j16azYMxW_SIy57K8zaREUJZP6dv8eMWS1iGjnt3XGUEbw1Ke0qfxWKI9bGtjwNlICgWDeYRPYYD",
+                    "widthPx": 2048,
+                    "heightPx": 1152,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ngữ Lò Lâm (Nash Lo)",
+                            "uri": "//maps.google.com/maps/contrib/116340722397159323815",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUHwSWFUSbl0dCLM7KaWRIadQOl75QDqeh0bPs8qSCS4uYd=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJA4KOZeTYdDER2UAz7DZAjwQ/photos/AWU5eFhqNudrbw4W4enalNl0PLrluxDfdEgAVBVdYr4fj4ERXQLqJ-us4SdlNgS0KOH9uWwopjrZGSQDAVT5L60vFZm0B-2I-O9dLQHtjQutzs0TrQzC-IgXD-9M_HSCJ4HzZTcvPX0BKExHTxoHdp1B9i1R8X92k3pNADbx",
+                    "widthPx": 1836,
+                    "heightPx": 3264,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Lan Thụy",
+                            "uri": "//maps.google.com/maps/contrib/104728179303969786347",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJC8OGc3_DfGqPczYz-NblEpcAoP7QT7BjHsMtuNJ2H=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJA4KOZeTYdDER2UAz7DZAjwQ/photos/AWU5eFi6OsKhbbq8SauZySSB7-_K7GQbGCGcTuS6uYDKetmuzqS3sqTBwj_aEEGuQlJ8ZrNzE6_FMS3vQr7Yjib3ZXKDIuq0Ta0pLA3TzvmfQ72So7GGW-71IkfI34rCOKa5eU-Rzc6PnYiJ_KSjA2etZDW9nzVRRjPpbEOT",
+                    "widthPx": 3200,
+                    "heightPx": 1920,
+                    "authorAttributions": [
+                        {
+                            "displayName": "TRAN DUC DUNG",
+                            "uri": "//maps.google.com/maps/contrib/109630006574239140861",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX1Z0JSP0ncEhz-8sq09-VTMVDs3u-jD2tY497C43Bi4y8=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "location": {
+                "latitude": 10.9182239,
+                "longitude": 106.78211639999999
+            },
+            "displayName": {
+                "text": "Trạm xăng dầu số 68",
+                "languageCode": "en"
+            },
+            "shortFormattedAddress": "Tân Đông Hiệp, Dĩ An",
+            "photos": [
+                {
+                    "name": "places/ChIJx8wvKgPZdDERs_bQN7_5KkY/photos/AWU5eFjtueozqndQQLSpt8_S5Nelc0uYtKAQZiBmLhPtjq0bhYpnN3btSXBt_eZJeJXOhZ2IG2J0ZMhtG6kRmyGhsfDBr-HfQSnMKQCBl2pC5HXK_OYi30Y5i2XEQgTUv29mbDL5nohpYaf8-82sctYmaEfaE0jtm7Mg-Ykt",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Trạm xăng dầu số 68",
+                            "uri": "//maps.google.com/maps/contrib/101552603622113554680",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXljE-jaycgcVLlIWoTgK-aaKHqPF_OFfH2w5FCsn6hIQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJx8wvKgPZdDERs_bQN7_5KkY/photos/AWU5eFhThR-13vQ_zqejsu8Jv-Ge4YTMeWogAG-rnptWFNLp_23ALzft8ezKFO4V7agHenU8K1YVZxtthoG22QG8jLt8o_eJd6R0V8jK7VeJrGr9xN7G6vQqDCnfyNdScUJ7khjw2cdl10sevHJpCbiatiDfHRBssdgWNsx6",
+                    "widthPx": 1280,
+                    "heightPx": 963,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Trạm xăng dầu số 68",
+                            "uri": "//maps.google.com/maps/contrib/101552603622113554680",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXljE-jaycgcVLlIWoTgK-aaKHqPF_OFfH2w5FCsn6hIQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJx8wvKgPZdDERs_bQN7_5KkY/photos/AWU5eFg_rxr5j5JVzyRLI7bK0voKhliLAFlKRIcd410D_EwpauVOaaSir9Al6Dti-ld5jrJXXKh8czyN6Ji9N0Q5__4zxwCjPybQ5uM4OnKGHnaoz0lUyhxzGlq9-3_1OE9LD_kgItRHHaBLp8qC4i7D87hkprG2uLWGPtd1",
+                    "widthPx": 4160,
+                    "heightPx": 3120,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Van An Doan",
+                            "uri": "//maps.google.com/maps/contrib/112170528225845609557",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocL4U5vVFZnyfmfjhdsiIa5uqwRtJ_eojY-I0zok0Ft5=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJx8wvKgPZdDERs_bQN7_5KkY/photos/AWU5eFhGl5BUCqHAT2UY2LLto7gsX3HWLQ6icwJ1Og0_jFmWIpDX_ZpJsznjieY13kU1iRM0Bqfn-yBVcC4FtLqUUTTdGAzYXSUOg__ue3i4nijRzbD7I-Ba5PJh-v0RwpsCvbrKxWVSICV7pwkEiTng8b2BEmNRWlNR40IV",
+                    "widthPx": 2304,
+                    "heightPx": 4096,
+                    "authorAttributions": [
+                        {
+                            "displayName": "nguyễn quang vinh",
+                            "uri": "//maps.google.com/maps/contrib/112904835556932046484",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXFb2IfXjK2dP8Qv3Kui7kJaoAIVnAeJFMYLx68cAxcWxs=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJx8wvKgPZdDERs_bQN7_5KkY/photos/AWU5eFiPsvGre5XPaJ4ouynpCzh3d5nH5c7mU3ZCG1Q4pou7J34wo_92RjudoAWHsasYlqw5JWQTY4swHOOWBnCuf2HFHtViFocdp_J4q_fzD27KcQT9fqqjCHSygTT32DFrFCWKJOG1r6kIZVBsBEXPPl3N6i7sIpKQ5vgV",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "THIÊN LONG",
+                            "uri": "//maps.google.com/maps/contrib/113549973466836236355",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU8NmQNbAcG6zyVJGWpmZG7_Iokl3FZ4vfI5qk92OgmNtDX=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJx8wvKgPZdDERs_bQN7_5KkY/photos/AWU5eFgoADaCbf_f_DAwAQydsiT9KQOo3n3zbrkufbLviQoOFdP8r8Dl13fSH2NHpJbqNJUvDMHWw7UokgNnS7EvJvxlLXEg27BEB8YQ7mo4MQs64bn1Xfoa4CBc9T71gWRb1aWINT_XCL1w2cF4TGPhdvsBevZ-QEMhgtvH",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Anh Mai",
+                            "uri": "//maps.google.com/maps/contrib/100167939643043416684",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLGkKNAj_ZnoAc17UXfpoNOZ38Fj08Xq5DhTq7XCEsM=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJx8wvKgPZdDERs_bQN7_5KkY/photos/AWU5eFjbRoTNpzk7xrKoi7OcASs7sLGlTdqMSmbs7hl1G316VIBmgL7e7Lh4xagVKOC6_QW6mlXh6E8UGglOFIz5XCcTVn12YRLN1e766k4EA_XM8o7vYanE2k6-7q-aHsYARY8xbNT_QFRjc6MD64QecrjbxtsUw-qFqG85",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "ha Nguyen",
+                            "uri": "//maps.google.com/maps/contrib/102873897846402757331",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUwMyfU0jYt4miV7Iv6AZt1nS0qH02qnINpSIW0mdL7F5s=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJx8wvKgPZdDERs_bQN7_5KkY/photos/AWU5eFhbZ_p1V6S-ftBrMfAUWUyKVdLhNNjKXzpCGUVer9iUOiYuKpbsY3IZNvHDHcrnHsK-cYu2vxDdd6trccb5RxPR7FrnU1pWaClOObNYl5mHS3BWVkyNyGJQDl_FNS-vCNLl-Ny66DVbGCyhXkPtepWPtYMV1xOwqYg2",
+                    "widthPx": 4032,
+                    "heightPx": 1920,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Sang Quang",
+                            "uri": "//maps.google.com/maps/contrib/101853029830180807982",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJo0UMukCwplWc9gwZ2wGzdYxs9K9zqJw_nDuoloW3g=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJx8wvKgPZdDERs_bQN7_5KkY/photos/AWU5eFgf8QlaWkjUdrJBuQOzkwYD-i6pqIE0cvpJ5d-MpChoeiaxLNtmyM8Z8x7TNpwznHCZCSHlHyaBXp2C06Z8I3vXtFlzpTwN_YifWeKzNwirbunEqWkq96qIWuO4r28X36spaTWHxAAzX0JdqOne_DRPtJsneV1BUXy2",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Anh Mai",
+                            "uri": "//maps.google.com/maps/contrib/100167939643043416684",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLGkKNAj_ZnoAc17UXfpoNOZ38Fj08Xq5DhTq7XCEsM=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJx8wvKgPZdDERs_bQN7_5KkY/photos/AWU5eFjJoHimr70n8Gnpbe0_KhkrAT2o1olCAHu7lPFkZSu9k84tPYc7SPIWeewsap87I1QJxdcqCyoi1eGakPJ_knrTk8Nm6ntyQsNhJI-rEbUdvohgy3qTZMcbNQT34FzNxawBY9k3iCcR-f99prk1qfCc805lRHK2SDNN",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Anh Mai",
+                            "uri": "//maps.google.com/maps/contrib/100167939643043416684",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLGkKNAj_ZnoAc17UXfpoNOZ38Fj08Xq5DhTq7XCEsM=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "location": {
+                "latitude": 10.9261587,
+                "longitude": 106.8064584
+            },
+            "displayName": {
+                "text": "Hang Bridge petrol stations",
+                "languageCode": "en"
+            },
+            "shortFormattedAddress": "WRG4+FH8, Đ. Nguyễn Tri Phương, Bửu Hòa, Thành phố Biên Hòa",
+            "photos": [
+                {
+                    "name": "places/ChIJIy9NCTDZdDERLM4BAdPYcEA/photos/AWU5eFjx5MeUxXZ-u1CLBLu6_Gnol_sZti2bFo_waCJGzL1kErxbaZ39Yia0j-UWlg9Gc-AA0s0CfapPsYRQnfcqYCmVH7gClXl4NrZ7jy5gGhg09A8O_jgbWozkthIGwS3e6aFPdK54czxIRiT7vlLcrop8sOxZkxRnjhr8",
+                    "widthPx": 4624,
+                    "heightPx": 2604,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Nguyễn Đức Thọ",
+                            "uri": "//maps.google.com/maps/contrib/112608727251212454279",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVCNSkOchg9uHriZQjQ2n3mkDZ9nJ-8G4iEk8DfMr01F1E=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIy9NCTDZdDERLM4BAdPYcEA/photos/AWU5eFgtCOMgBw-CfFUd8u6lzLRCBGaZcxQuCbWxChJ_ouyJuZSBitfDmN9DHOeAjFR0f0DdtWtXK3DrqpdRxjBlcLJGnFs2Rf2IM85g9ogpgpMjoLztTk2Buiur9r-AEweB4t_BIL4gHWL-8BCKjjLCCGLkBVLfRi2onXTL",
+                    "widthPx": 3468,
+                    "heightPx": 4624,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Phong Nguyen",
+                            "uri": "//maps.google.com/maps/contrib/105252318214036009888",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXgxdCcPCzzLH9Sg9GQECKKCbTzfTBwiXI2p6bmPmB3P9Uq=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIy9NCTDZdDERLM4BAdPYcEA/photos/AWU5eFiV8tSs9aIt8pAGMKHhMTY0yLXKydOic9aU-5c_BNXI5ns7R7-Kw4L0WyUAEP4fgiu4ghxKBVaaK0UGYlTPxeE3ACb_pEVBqARxsh0J1VtVBpU89D8DQET98YjF8h8vFnbpXTC29MHm5yb9smc0Vi_GA3uQi7oYTjPO",
+                    "widthPx": 4608,
+                    "heightPx": 3456,
+                    "authorAttributions": [
+                        {
+                            "displayName": "NGUYỄN KHÁNH ĐỨC DÁT VÀNG 24K ĐT 0936 345 402",
+                            "uri": "//maps.google.com/maps/contrib/100180696668685563986",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXFNUgasZvgVTn16qIhIkgEWozAfNIMhfgubZIWavxZMP5R=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIy9NCTDZdDERLM4BAdPYcEA/photos/AWU5eFiC4vIZgdAx27Jz5uHbZx9-0xRyikzrKcyU1-icMfHxuGX1QjFqxxeUcqvTd2OfKyYf67VEVCD-rbz8T72RdB-GyhidjH0wFYzY01Q10fg0u48QLpLdr1hGme06VlGV4ui-9jrwW-SVxjU05Sc2-WGaW8SQCfTzYJE3",
+                    "widthPx": 3000,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Nhất Vũ",
+                            "uri": "//maps.google.com/maps/contrib/112774995858318371933",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUgi5mYP9dW_ROmMH5xR4EjQTWoP3lZTHJiAIVcimGg-gQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIy9NCTDZdDERLM4BAdPYcEA/photos/AWU5eFiUs8zIMJL1zFB4ueWFaypbSs6jlOA4EvlkGHnjPd_OHXJQpjQt_5Vr2BALlULJUCOO9UqgiOgMv8oST2U3JTWA5XkFCy-5WloPZWBQ7WMBNdrLcqXfD6fAuH3JaX7Rk0TGQKaQeyvTltMDBtt6MjK908by4OFV3zDN",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Le Thanh Cong",
+                            "uri": "//maps.google.com/maps/contrib/115160018302110248162",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWxhwITE6TlP10xgeo1C3ISbS9G3koF-lm3wd-G4KeXIudd=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIy9NCTDZdDERLM4BAdPYcEA/photos/AWU5eFjBvVYJlA3LCqF5DHIunFCLumwqmhhM_DDCCwRMsB2_wg5zD_wZZy8EeuV7Fedy1-DyX3x-e5jfVw0s1EFoPZs-phneTndw083-PdCSbToIv5z8YoZDmdvKjGgTQzPxVuCSndHazTXdM9o8x5u-AuVOQnHwHY1zGom5",
+                    "widthPx": 1080,
+                    "heightPx": 1920,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Tran Dung Phap",
+                            "uri": "//maps.google.com/maps/contrib/102059936201844735099",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXMyvAp_adrS2G6osPm8cg19pFZlsQwbrB0cQdHXkMYdic=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIy9NCTDZdDERLM4BAdPYcEA/photos/AWU5eFh9Gi9L4Ir8VQCpOaBp1Xa0ynWxzPFJv1wuG96zC-Mr_B8zzXN3FAZFmd_tEUobmogDV-M2olCm_5eW-oXUAF7Y8KEIcELT3UManp1AlqJmF6pwU3k0nD86mWmDFlPTCG1m1g1XS0AOEyNuhPlT_4LhbQW0DfeZKRr7",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Hung pham dac",
+                            "uri": "//maps.google.com/maps/contrib/102631802291657555438",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVV9U1lRyt5b6mr3tOh5IGmMSGi3FVQa75KvcuqYAeKKnk=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIy9NCTDZdDERLM4BAdPYcEA/photos/AWU5eFgdOQZUPxRye7szdj7xcM1kFjMtaoRKutLZlO22JVfOzS7iyiwsafA4ASfxExQ9l3elm9Srl0SH7PxSZi3cubZiLNF5lnrYr7DtKcOE0QydPOU2e2sp7HoLWuZNNvQyEAlUOpriILObhsRyyU_YF1wi_iQ-ryiqNfaE",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Le Thanh Cong",
+                            "uri": "//maps.google.com/maps/contrib/115160018302110248162",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWxhwITE6TlP10xgeo1C3ISbS9G3koF-lm3wd-G4KeXIudd=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIy9NCTDZdDERLM4BAdPYcEA/photos/AWU5eFgaKMyb8QA7ubXv5cTO_KPLGDm00c1MoaCZCT1wX4lpqRORO72gCd6QtsWua-z3yMVpgg3fQYjwnf7CHCDJYiJ3MbOCQhbd6Ejxv5hX-jA0PMbeuzYpGgrWGnKxydBCqLF6K3FX-YKZOOvuVsc9cqCQFOwZ-FVaKJqM",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Le Thanh Cong",
+                            "uri": "//maps.google.com/maps/contrib/115160018302110248162",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWxhwITE6TlP10xgeo1C3ISbS9G3koF-lm3wd-G4KeXIudd=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIy9NCTDZdDERLM4BAdPYcEA/photos/AWU5eFjrrGOm6i_6G-leBZKac7yKIlHueMPmhVztBbhwJhfhV_9bWCZJA8W9D11G4dGZQC3g5DifMC9k5iqTJoNiRU5gqn2QNENBedRU0ZrNhhqkvqs5nDeL697b0inBot28c1gUKdt8TaaPFFqJ3JMXtLgNidi3RPJfKCO0",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Hung pham dac",
+                            "uri": "//maps.google.com/maps/contrib/102631802291657555438",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVV9U1lRyt5b6mr3tOh5IGmMSGi3FVQa75KvcuqYAeKKnk=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "location": {
+                "latitude": 10.885169999999999,
+                "longitude": 106.77182940000002
+            },
+            "displayName": {
+                "text": "Saigon Petro - Linh Xuan gas station",
+                "languageCode": "en"
+            },
+            "shortFormattedAddress": "233 Quốc lộ 1K, Linh Xuân",
+            "photos": [
+                {
+                    "name": "places/ChIJi3y6OYjYdDERi2apEy47-uU/photos/AWU5eFhM_WPqSuTlJM-W8maBbeKlJKJ_mr1-qGmIazI3iOsgQb6wL-bPEHSo0ylsIewR8dfDEIBNmNMkUfciMbcECnCHkrosrEg2APHRVJSufdSwlO61muaGzrs1_W9LaZGw210HYptUxu1ddJrVmkkMH3vh5aYMBlUfcjV6",
+                    "widthPx": 3264,
+                    "heightPx": 1472,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Tri Nguyen Hoang Duc",
+                            "uri": "//maps.google.com/maps/contrib/107510789032390649551",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWUFYgWa4PpSQD6RbGBopz8KBcQh8BpIA4PXpty7i3GbCQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJi3y6OYjYdDERi2apEy47-uU/photos/AWU5eFgw4_Tr4w76GqwMax8KcU7jIBqqvkpVk78rwGZzAHsA6OAi6fMj-FlM19fetJj7l70Z6MWWxsKnraRRg3yEuo8sZ7FdLaZvNL7_pImDC9hhgp39BhVKr_QD_hG38SZFl7hQUc0Liv7drksqhB4oEK37drLGo8cL_JzX",
+                    "widthPx": 2448,
+                    "heightPx": 3264,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Hội Hồ",
+                            "uri": "//maps.google.com/maps/contrib/102201730847331924535",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUY8NQ6jk03xULpVNtrffi9FPNRdRdk8br7afEFs7C9LEg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJi3y6OYjYdDERi2apEy47-uU/photos/AWU5eFjMe15cC_y2to9L5aBUquYMdwKFJRcZuLe_dxUuwp8SXriOSjt5liUkNyAb0jAGr_RCA19BIEmW2WF3yGExKRqn194NYAERx6TqwlgyLf6Z81EfexlH_B7fTnX1Iqx0MS34e89bclx8efTg_78nfPnpZczsHXAnXYkk",
+                    "widthPx": 4000,
+                    "heightPx": 2256,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Tri Nguyen Hoang Duc",
+                            "uri": "//maps.google.com/maps/contrib/107510789032390649551",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWUFYgWa4PpSQD6RbGBopz8KBcQh8BpIA4PXpty7i3GbCQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJi3y6OYjYdDERi2apEy47-uU/photos/AWU5eFg8DMS8xnKZew97miqtyjpkWWyxMgtSrIN8yPDer2RK0zYiiQGMSiJl0LR1ecqWVdXGpKSxewfPyMbtAUXbucn39WKgDR1fZmmpb0JRcUDF2vZLkBtRrCRXRGvoDbU3TziLmwO6bnNBDEdPcisUbGhh5mmKKRRuwb_b",
+                    "widthPx": 1600,
+                    "heightPx": 720,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Nguyenbaolong209 Nguyen",
+                            "uri": "//maps.google.com/maps/contrib/110974597071741003243",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLPEC1UIwSIGnGroCCLC46jz2RG98UBgqGrtVpZ6Y4ONQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJi3y6OYjYdDERi2apEy47-uU/photos/AWU5eFhOWitC3IVc5qMmBPV-1EMoxhGKs4DBoTraKyIX8y0wZin410xYsx5IkYVcBvmKlTeRmqIBHTOoPqdLB4ZETnYW4z2UK3QMD_V-vaKWK69ktYKGDrOd8vGw50ebJ40_0HG8cloiX39cjkulEX9DZKN_0WQZly_5_0Ea",
+                    "widthPx": 4160,
+                    "heightPx": 3120,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Phương Nguyễn",
+                            "uri": "//maps.google.com/maps/contrib/116536777533620033730",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV4YZIx2jDgidTIajWre-Omby14W_t5sgHbO4zkPB2EKOQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJi3y6OYjYdDERi2apEy47-uU/photos/AWU5eFjIbOTO0g226dikOuU9HsB16Pszi_79KCXWXlAUsg49UlT4VL8aOoabz290TJ2K0J32GD61VEcYE-AwM9-gcXuf55m7e62W2WI2sGCrcInHLH32smayOSmC4UhSF89bxCROd8UgMx98C5LqbkNRoRj-LVGG5vjYPfi_",
+                    "widthPx": 3840,
+                    "heightPx": 2160,
+                    "authorAttributions": [
+                        {
+                            "displayName": "HỒ VƯƠNG QUÂN ʕ•́ᴥ•̀ʔ",
+                            "uri": "//maps.google.com/maps/contrib/108820774840431480326",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBxrHNm2eYEA A7xE_gxEZxHjounAjr6wBNBitTI9fybbOs=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJi3y6OYjYdDERi2apEy47-uU/photos/AWU5eFjKbvfJ5TvQGShy7nA6yG36PjxnVWEhAAhn50fB2yd9GMpmRieinKdqDU0OEmdHXx1ANoyVl7DDfvQ0IlP8ORVw-ex5T5yqRAqdKd95cpVnoi6BKZp7rZqilVcFYatf4pY_TA2qdXIuUrq9JRcbOoV2T6BX2qogWww-",
+                    "widthPx": 3840,
+                    "heightPx": 2160,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Nguyễn Kotex",
+                            "uri": "//maps.google.com/maps/contrib/104979364008866195695",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjViGLf8_WVeEagvfm9Qsz8PiqUYeXch0HYrWwRrjdKVacs=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJi3y6OYjYdDERi2apEy47-uU/photos/AWU5eFg3Ulhas43UHGTqrWluVFgE_kITapFZ1hL92oEUqc0AQ5AmS0ABlL10-WOKz9O6LG1W4o_rUNLIwvVyzcKiod0oBajILVQ_7XbOZhKb01v3O8mNh5rYgK7JhKa21PTp7c6Cgebcl8q0AtuwoqRPEMSa74d9RHkIBJVv",
+                    "widthPx": 2048,
+                    "heightPx": 1152,
+                    "authorAttributions": [
+                        {
+                            "displayName": "HỒ VƯƠNG QUÂN ʕ•́ᴥ•̀ʔ",
+                            ,
+                            "uri": "//maps.google.com/maps/contrib/108820774840431480326",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBxrHNm2eYEA7xE_gxEZxHjounAjr6wBNBitTI9fybbOs=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJi3y6OYjYdDERi2apEy47-uU/photos/AWU5eFiGfHaDiJrM1XBLaEcziRYsFm6XDuNmWvLYAiJsyALG1MjcDz6N9HMjwOvX843kVOTpW9lv-9L2OUPldldiTQGGhpAa_DWJ2TObUBr0TtkztEQMIzHRsRBxYUSkEcp7m56lvHQSNGdKuU_Pxd17XWenljRMk0ckkIjK",
+                    "widthPx": 3840,
+                    "heightPx": 2160,
+                    "authorAttributions": [
+                        {
+                            "displayName": "HỒ VƯƠNG QUÂN ʕ•́ᴥ•̀ʔ",
+                            "uri": "//maps.googl le.com/maps/contrib/108820774840431480326",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBxrHNm2eYEA7xE_gxEZxHjounAjr6wBNBitTI9fybbOs=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJi3y6OYjYdDERi2apEy47-uU/photos/AWU5eFjtfFf66DLonhMQx_8a6q4MPCoCF5LULM5Gv2GNTAftEJmSrF4MfW0dt_yw77lxs_pRXGkmfGCHwklhpCz7Z5qEOchMPX4Z6YY_0M4Nu_Gkyh1A9671dYqVlvAvvS68oYw3ze00IyRpqbsXUeHTVc31QkSuaMZeQDTK",
+                    "widthPx": 3840,
+                    "heightPx": 2160,
+                    "authorAttributions": [
+                        {
+                            "displayName": "HỒ VƯƠNG QUÂN ʕ•́ᴥ•̀ʔ",
+                            "uri": "//maps.google.com/maps/contrib/ /108820774840431480326",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWBxrHNm2eYEA7xE_gxEZxHjounAjr6wBNBitTI9fybbOs=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "location": {
+                "latitude": 10.9026407,
+                "longitude": 106.77339839999999
+            },
+            "displayName": {
+                "text": "Trạm Xăng Dầu Dĩ An",
+                "languageCode": "vi"
+            },
+            "shortFormattedAddress": "29 Trần Hưng Đạo, Đông Hòa, Dĩ An"
+        }
+    ]
+}     
+ LOG  *** [
+    {
+        "displayName": {
+            "languageCode": "vi",
+            "text": "Cửa hàng xăng dầu số 2"
+        },
+        "location": {
+            "latitude": 10.8910001,
+            "longitude": 106.7844245
+        },
+        "photos": [
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ]
+        ],
+        "shortFormattedAddress": "4 Trần Hưng Đạo, Đông Hòa, Dĩ An"
+    },
+    {
+        "displayName": {
+            "languageCode": "en",
+            "text": "Gasoline plant East Tan"
+        },
+        "location": {
+            "latitude": 10.9113075,
+            "longitude": 106.7514786
+        },
+        "photos": [
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ]
+        ],
+        "shortFormattedAddress": "ĐT743B, p. Dĩ An, Dĩ An"
+    },
+    {
+        "displayName": {
+            "languageCode": "vi",
+            "text": "Cây Xăng Tân Long"
+        },
+        "location": {
+            "latitude": 10.916775099999999,
+            "longitude": 106.7528411
+        },
+        "photos": [
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ]
+        ],
+        "shortFormattedAddress": "WQ83+P48, phường Tân Đông Hiệp, Dĩ An"
+    },
+    {
+        "displayName": {
+            "languageCode": "vi",
+            "text": "Trạm xăng dầu Vân Trúc"
+        },
+        "location": {
+            "latitude": 10.8976551,
+            "longitude": 106.73974469999999
+        },
+        "photos": [
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ]
+        ],
+        "shortFormattedAddress": "71 ĐT743, Bình Hòa, Thuận An"
+    },
+    {
+        "displayName": {
+            "languageCode": "en",
+            "text": "Song Than Gas Station (Morningstar)"
+        },
+        "location": {
+            "latitude": 10.8761697,
+            "longitude": 106.75137769999999
+        },
+        "photos": [
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ]
+        ],
+        "shortFormattedAddress": "VQG2+FH6, An Bình, Dĩ An"
+    },
+    {
+        "displayName": {
+            "languageCode": "vi",
+            "text": "Cây Xăng Bình An 2"
+        },
+        "location": {
+            "latitude": 10.9088998,
+            "longitude": 106.7860288
+        },
+        "photos": [
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ]
+        ],
+        "shortFormattedAddress": "42/1A ĐT743B, phường Tân Đông Hiệp, Dĩ An"
+    },
+    {
+        "displayName": {
+            "languageCode": "en",
+            "text": "Trạm xăng dầu số 68"
+        },
+        "location": {
+            "latitude": 10.9182239,
+            "longitude": 106.78211639999999
+        },
+        "photos": [
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ]
+        ],
+        "shortFormattedAddress": "Tân Đông Hiệp, Dĩ An"
+    },
+    {
+        "displayName": {
+            "languageCode": "en",
+            "text": "Hang Bridge petrol stations"
+        },
+        "location": {
+            "latitude": 10.9261587,
+            "longitude": 106.8064584
+        },
+        "photos": [
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ]
+        ],
+        "shortFormattedAddress": "WRG4+FH8, Đ. Nguyễn Tri Phương, Bửu Hòa, Thành phố Biên Hòa"
+    },
+    {
+        "displayName": {
+            "languageCode": "en",
+            "text": "Saigon Petro - Linh Xuan gas station"
+        },
+        "location": {
+            "latitude": 10.885169999999999,
+            "longitude": 106.77182940000002
+        },
+        "photos": [
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ]
+        ],
+        "shortFormattedAddress": "233 Quốc lộ 1K, Linh Xuân"
+    },
+    {
+        "displayName": {
+            "languageCode": "vi",
+            "text": "Trạm Xăng Dầu Dĩ An"
+        },
+        "location": {
+            "latitude": 10.9026407,
+            "longitude": 106.77339839999999
+        },
+        "shortFormattedAddress": "29 Trần Hưng Đạo, Đông Hòa, Dĩ An"
+    }
