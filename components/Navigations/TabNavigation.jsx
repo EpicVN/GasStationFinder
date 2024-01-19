@@ -20,7 +20,7 @@ export default function TabNavigation() {
                     tabBarLabel: 'Map',
                     tabBarActiveTintColor: Colors.PRIMARY,
                     tabBarIcon: ({color, size}) => (
-                        <Ionicons name="search" size={size} color={color} />
+                        <Ionicons name="map" size={size} color={color} />
                     )
                 }}
             />

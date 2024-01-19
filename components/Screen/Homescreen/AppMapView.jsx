@@ -9,17 +9,26 @@ import Markers from './Markers';
 export default function AppMapView({placeList}) {
   const { location, setLocation } = useContext(UserLocationContext);
 
+
   return (
     <View>
       <MapView 
         style={styles.map} 
         provider={PROVIDER_GOOGLE}
         customMapStyle={MapViewStyle}
+        showsMyLocationButton={true}
+        zoomControlEnabled={true}
+        zoomEnabled={true}
+        zoomTapEnabled={true}
+        showsScale={true}
+        mapPadding={{top: 280, bottom: 280, right: 10, left: 10}}
+        showsUserLocation={true}
+        showsCompass={true}
         region={{
           latitude: location?.latitude,
           longitude: location?.longitude,
-          latitudeDelta: 0.0122,
-          longitudeDelta: 0.0121
+          latitudeDelta: 0.012,
+          longitudeDelta: 0.011
         }}
       >
         <Marker
@@ -49,5 +58,5 @@ const styles = StyleSheet.create({
     map: {
       width: '100%',
       height: '100%',
-    },
+    }
   });

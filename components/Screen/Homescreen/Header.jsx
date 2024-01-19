@@ -1,7 +1,6 @@
 import { View, Text, Image, StyleSheet } from 'react-native'
 import React from 'react'
 import { useUser } from '@clerk/clerk-expo'
-import { FontAwesome } from '@expo/vector-icons';
 import Colors from '../../../assets/Utils/Colors';
 
 export default function Header() {
@@ -18,7 +17,10 @@ export default function Header() {
                 style={{ width: 50, height: 50, objectFit: 'contain' }}
             />
 
-            <FontAwesome name="filter" size={35} color="black" />
+            <Image 
+                source={require('./../../../assets/images/gas-pump-icon.png')}
+                style={{ width: 50, height: 50, objectFit: 'contain' }}
+            />
         </View>
     )
 }

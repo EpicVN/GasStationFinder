@@ -2,7 +2,6 @@ import { View, Text, StyleSheet } from 'react-native'
 import React, { useContext, useEffect, useState } from 'react'
 import AppMapView from './AppMapView'
 import Header from './Header'
-import SearchBar from './SearchBar'
 import { UserLocationContext } from '../../../Context/UserLocationContext'
 import GlobalApi from '../../../assets/Utils/GlobalApi'
 import PlaceListView from './PlaceListView'
@@ -20,14 +19,14 @@ export default function HomeScreen() {
   const GetNearByPlace = () => {
     const data = {
       "includedTypes": ["gas_station"],
-      "maxResultCount": 10,
+      "maxResultCount": 20,
       "locationRestriction": {
         "circle": {
           "center": {
             "latitude": location?.latitude,
             "longitude": location?.longitude
           },
-          "radius": 5000.0
+          "radius": 1500.0
         }
       }
     }

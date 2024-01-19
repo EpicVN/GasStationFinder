@@ -2,10 +2,10 @@ import React from "react";
 import { Text, StyleSheet, View, Button, TouchableOpacity } from "react-native";
 import { SignedIn, SignedOut, useAuth } from "@clerk/clerk-expo";
 import { LoginScreen } from "./LoginScreen.jsx";
-import Colors from "../../assets/Utils/Colors";
+import Colors from "../../assets/Utils/Colors.js";
 
 const SignOut = () => {
-  const { isLoaded, getToken, signOut } = useAuth();
+  const { isLoaded, userId, sessionId, getToken, signOut } = useAuth();
 
   if (!isLoaded) {
     return null;
